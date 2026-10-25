@@ -2,6 +2,11 @@
 
 A polished, responsive number guessing game built with **HTML5, CSS3, and Vanilla JavaScript**. No framework, bundler, or installation required.
 
+## Live Link:
+ https://vishal-maddheshiya.github.io/Number-guessing-game/
+## GitHub Repo:
+https://github.com/VISHAL-MADDHESHIYA/Number-guessing-game/
+
 ## Features
 
 - Three difficulty levels:
